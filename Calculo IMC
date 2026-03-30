@@ -1,4 +1,4 @@
-print("essa é sua calculadora de IMC (Indice de  Massa  Corporal")
+print("Calculo de IMC digite sua altura e em seguida seu peso")
 alt = (float(input("me informe sua altura: ")))
 peso = (float(input("agora me informe seu peso atual: ")))
 imc = peso / (alt ** 2)  
