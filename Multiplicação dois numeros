@@ -1,5 +1,5 @@
 n1 = (float(input("digite o primeiro numero para multiplicar: ")))    
-print(f"Seu primeiro numero é:, {numero1} vamos digite o proximo :)")
+print(f"Seu primeiro numero é:, {n1} vamos digite o proximo :)")
 n2 = (float(input("digite seu segundo numero: ")))
 result = n1 * n2
 print(f"seu resultado é: {result} ")
